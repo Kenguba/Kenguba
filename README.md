@@ -1,4 +1,4 @@
-![tengge1's github stats](https://github-readme-status.vercel.app/api?username=Kenguba&show_icons=true&hide_border=true)
+![Kenguba's github stats](https://github-readme-status.vercel.app/api?username=Kenguba&show_icons=true&hide_border=true)
 
 <!--
 **Kenguba/Kenguba** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
